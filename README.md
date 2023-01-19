@@ -1,7 +1,7 @@
 <h3 align="center">
 
  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Raleway&weight=700&size=26&duration=1&pause=1000&color=CC006F&background=140D11D8&center=true&vCenter=true&width=800&lines=yasmin+beer" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Raleway&weight=700&size=26&duration=1&pause=1000&color=CC006F&background=161B22&center=true&vCenter=true&width=800&lines=yasmin+beer" />
    <img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=700&size=26&duration=1&pause=1000&color=CC006F&background=FFAED71E&center=true&vCenter=true&width=800&lines=yasmin+beer" />
 </picture>
   
