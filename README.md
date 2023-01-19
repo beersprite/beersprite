@@ -1,13 +1,18 @@
-<h3 align="center">Yasmin Beer</h3>
+<h3 align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&weight=700&size=26&duration=1&pause=1000&color=CC006F&background=FFAED71E&center=true&vCenter=true&width=800&lines=yasmin+beer)](https://git.io/typing-svg)
+ 
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&weight=500&size=18&duration=1&pause=1&color=00000097&background=FFAED700&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=40&lines=Junior+Software+Engineer)](https://git.io/typing-svg)
+
+</h3>
+
 
 - 🌷 Pronouns: she/her or they/them
-- 📌 Junior Software Engineer at Dell Technologies
 - 💻 Computer Science undergraduate at UFRGS
 - 🌱 Currently learning Typescript, Angular
-- 🌿 I have several learning projects in my repositories, feel free to take a look!
 - 🎨 Hobbies include drawing, crafting, sewing and videogames
-- ✨ Reach me on [Linkedin](https://www.linkedin.com/in/yasminbeer/)!
 
+&#8287;&#8287;&#8287;&#8287;&#8287;
 
 <p align="center"> 
   <a href="https://angular.io" target="_blank"> 
@@ -42,12 +47,13 @@
               width="30"  height="30"/></a>
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"
-              width="30"  height="30"/></a> 
-              
-             
+              width="30"  height="30"/></a>     
              
 </p>
-<p align="center"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=beersprite&layout=compact&theme=buefy&hide=racket&langs_count=6"/>
-</p>
+
+<p align="right">
+      <a href="https://linkedin.com/in/yasminbeer" target="_blank">
+        <img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/6096F9" />
+      </a>
+</p> 
 
