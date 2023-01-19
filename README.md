@@ -1,9 +1,15 @@
 <h3 align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&weight=700&size=26&duration=1&pause=1000&color=CC006F&background=FFAED71E&center=true&vCenter=true&width=800&lines=yasmin+beer)](https://git.io/typing-svg)
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Raleway&weight=700&size=26&duration=1&pause=1000&color=CC006F&background=140D11D8&center=true&vCenter=true&width=800&lines=yasmin+beer" />
+   <img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=700&size=26&duration=1&pause=1000&color=CC006F&background=FFAED71E&center=true&vCenter=true&width=800&lines=yasmin+beer" />
+</picture>
+  
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Raleway&weight=500&size=18&duration=1&pause=1&color=FFFFFF97&background=FFAED700&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=40&lines=Junior+Software+Engineer" />
+   <img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=500&size=18&duration=1&pause=1&color=00000097&background=FFAED700&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=40&lines=Junior+Software+Engineer" />
+</picture>
  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&weight=500&size=18&duration=1&pause=1&color=00000097&background=FFAED700&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=40&lines=Junior+Software+Engineer)](https://git.io/typing-svg)
-
 </h3>
 
 
