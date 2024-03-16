@@ -6,8 +6,8 @@
 </picture>
   
  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Raleway&weight=500&size=18&duration=1&pause=1&color=FFFFFF97&background=FFAED700&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=40&lines=Junior+Software+Engineer" />
-   <img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=500&size=18&duration=1&pause=1&color=00000097&background=FFAED700&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=40&lines=Junior+Software+Engineer" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Raleway&weight=500&size=18&duration=1&pause=1&color=FFFFFF97&background=FFAED700&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=40&lines=Software+Engineer" />
+   <img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=500&size=18&duration=1&pause=1&color=00000097&background=FFAED700&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=40&lines=Software+Engineer" />
 </picture>
  
 </h3>
@@ -15,7 +15,7 @@
 
 - 🌷 Pronouns: she/her or they/them
 - 💻 Computer Science undergraduate at UFRGS
-- 🌱 Currently learning Typescript, Angular
+- 🌱 Highlights: Typescript, Angular and Jasmine
 - 🎨 Hobbies include drawing, crafting, sewing and videogames
 
 &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -41,9 +41,6 @@
               width="30"  height="30"/></a> 
   <a href="https://www.typescriptlang.org/" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-              width="30"  height="30"/></a>
-  <a href="https://www.python.org/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
               width="30"  height="30"/></a>
   <a href="https://www.jetbrains.com/idea/" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"
