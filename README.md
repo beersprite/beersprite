@@ -24,8 +24,14 @@
   <a href="https://angular.io" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"
               width="30"  height="30"/></a>
+ <a href="https://svelte.dev/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg"
+              width="30"  height="30"/></a>
   <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+              width="30"  height="30"/></a>
+  <a href="https://tailwindcss.com" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
               width="30"  height="30"/></a>
   <a href="https://getbootstrap.com/" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
@@ -50,8 +56,8 @@
               width="30"  height="30"/></a>
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"
-              width="30"  height="30"/></a>     
-             
+              width="30"  height="30"/></a>
+
 </p>
 
 <p align="right">
