@@ -16,7 +16,7 @@
 - 🌷 Pronouns: she/her or they/them
 - 💻 Computer Science undergraduate at UFRGS
 - 🌱 Highlights: Typescript, Angular and Jasmine
-- 🎨 Hobbies include drawing, crafting, sewing and videogames
+- 🎨 Hobbies include drawing, painting, crafting, and videogames
 
 &#8287;&#8287;&#8287;&#8287;&#8287;
 
@@ -26,9 +26,6 @@
               width="30"  height="30"/></a>
  <a href="https://svelte.dev/" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg"
-              width="30"  height="30"/></a>
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
               width="30"  height="30"/></a>
   <a href="https://tailwindcss.com" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
@@ -41,9 +38,6 @@
               width="30"  height="30"/></a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
-              width="30"  height="30"/></a> 
-  <a href="https://www.javascript.com/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
               width="30"  height="30"/></a> 
   <a href="https://www.typescriptlang.org/" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
