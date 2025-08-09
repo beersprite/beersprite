@@ -22,41 +22,45 @@
 
 <p align="center"> 
   <a href="https://angular.io" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" alt="Angular"
               width="30"  height="30"/></a>
  <a href="https://svelte.dev/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg"
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" alt="Svelte"
               width="30"  height="30"/></a>
+ 
+ <a href="https://www.typescriptlang.org/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript"
+              width="30"  height="30"/></a>
+  <a href="https://www.cypress.io/" target="_blank"> 
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" alt="Cypress"
+              width="30"  height="30"/></a>
+              
   <a href="https://tailwindcss.com" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind"
               width="30"  height="30"/></a>
   <a href="https://getbootstrap.com/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap"
               width="30"  height="30"/></a>
+              
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS3"
               width="30"  height="30"/></a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML5"
               width="30"  height="30"/></a> 
-  <a href="https://www.typescriptlang.org/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-              width="30"  height="30"/></a>
+  
   <a href="https://www.jetbrains.com/idea/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA"
               width="30"  height="30"/></a>
-  <a href="https://code.visualstudio.com/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-              width="30"  height="30"/></a>
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"
+  <a href="https://gitlab.com/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" alt="Gitlab"
               width="30"  height="30"/></a>
 
 </p>
 
 <p align="right">
       <a href="https://linkedin.com/in/yasminbeer" target="_blank">
-        <img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/6096F9" />
+        <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
       </a>
-</p> 
+</p>
 
