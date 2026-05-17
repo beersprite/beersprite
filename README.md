@@ -14,7 +14,7 @@
 
 
 - 🌷 Pronouns: she/her or they/them
-- 💻 Computer Science undergraduate at UFRGS
+- 💻 Computer Science undergraduate from UFRGS
 - 🌱 Highlights: Typescript, Angular and Jasmine
 - 🎨 Hobbies include drawing, painting, crafting, and videogames
 
