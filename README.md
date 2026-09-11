@@ -13,10 +13,10 @@
 </h3>
 
 
-- 🌷 Pronouns: she/her or they/them
+- 🌷 Pronouns: she/they
 - 💻 Computer Science undergraduate from UFRGS
-- 🌱 Highlights: Typescript, Angular and Jasmine
-- 🎨 Hobbies include drawing, painting, crafting, and videogames
+- 🌱 Highlights: Typescript, Angular
+- 🎨 Hobbies include painting, pottery, and videogames
 
 &#8287;&#8287;&#8287;&#8287;&#8287;
 
